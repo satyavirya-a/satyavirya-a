@@ -3,9 +3,9 @@
 
 <h3> 🏫 I'm currently learning: </h3>
 <ul>
-  <li>Scientific Computing using <b> Python </b> 🐍</li>
-  <li>Object Oriented Programming using <b> Java </b> ☕</li>
-  <li>Data Structure using <b> C </b> ©️</li>
+  <li>Data Science & Machine Learning using <b> Python </b> 🐍</li>
+  <!-- <li>Object Oriented Programming using <b> Java </b> ☕</li>
+  <li>Data Structure using <b> C </b> ©️</li> -->
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
